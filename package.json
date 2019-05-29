@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "json2csv": "^4.5.1",
-    "xml-js": "^1.6.11",
-    "xml2csv": "^1.0.1"
+    "xml-js": "^1.6.11"
   }
 }
