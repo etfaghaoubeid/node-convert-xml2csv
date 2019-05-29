@@ -1,0 +1,1227 @@
+{
+	"elements": [
+		{
+			"type": "element",
+			"name": "LISTEPA",
+			"elements": [
+				{
+					"type": "element",
+					"name": "BIEN",
+					"elements": [
+						{
+							"type": "element",
+							"name": "INFO_GENERALES",
+							"elements": [
+								{
+									"type": "element",
+									"name": "AFF_ID",
+									"elements": [
+										{
+											"type": "text",
+											"text": "31233820"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AFF_NUM",
+									"elements": [
+										{
+											"type": "text",
+											"text": "6059"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DATE_CREATION",
+									"elements": [
+										{
+											"type": "text",
+											"text": "2019-04-15 16:21:06"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DATE_MAJ",
+									"elements": [
+										{
+											"type": "text",
+											"text": "24/04/2019"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "LIBRELE",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "NEGO",
+									"elements": [
+										{
+											"type": "text",
+											"text": "491110"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AFF_URL",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nhttp://v2.immo-facile.com/catalog/admin-v2/product_info.php?action=popup_agence&products_autorised=true&mmanufacturers_id=70751&msites_id=4211&site=4211&msites_code=immoconseils&madmin_id=491110&cle=b328bb51abb82ad38d981e2fc14b23cd&products_id=31233820&show_price=1\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "VISITE_VIRTUELLE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "STATUT",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " En cours "
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "AGENCE",
+							"elements": [
+								{
+									"type": "element",
+									"name": "AGENCE_ID",
+									"elements": [
+										{
+											"type": "text",
+											"text": "70751"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_NOM",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " IMMO CONSEILS - IMMOCONSEIL "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_ADRESSE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " 15 Rue de Chante Coq "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_CP",
+									"elements": [
+										{
+											"type": "text",
+											"text": "92800"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_VILLE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " PUTEAUX "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_TELEPHONE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "+33 1 47 74 92 50"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_PORTABLE",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_FAX",
+									"elements": [
+										{
+											"type": "text",
+											"text": "+33 1 47 78 83 97"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_MAIL",
+									"elements": [
+										{
+											"type": "text",
+											"text": "contact@immoconseil92.fr"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_SITE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "http://www.immoconseil92.fr"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_LOGO",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttp://admin.immo-facile.com/../segments/immo/catalog/images/manufacturers_logo/70751.jpg\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_PHOTO",
+									"elements": [
+										{
+											"type": "text",
+											"text": "http://admin.immo-facile.com/"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_RESEAU",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " Agences Réunies De Paris "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_SIRET",
+									"elements": [
+										{
+											"type": "text",
+											"text": "44983066000022"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "AGENCE_BAREME",
+									"elements": []
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "VENTE",
+							"elements": [
+								{
+									"type": "element",
+									"name": "TYPE_MANDAT",
+									"elements": [
+										{
+											"type": "text",
+											"text": "S"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DATE_MANDAT",
+									"elements": [
+										{
+											"type": "text",
+											"text": "15/04/2019"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "PRIX",
+									"elements": [
+										{
+											"type": "text",
+											"text": "255000.00"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "PRIX_NET",
+									"elements": [
+										{
+											"type": "text",
+											"text": "245000"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "PRIX_HORS_HONO_ACQ",
+									"elements": [
+										{
+											"type": "text",
+											"text": "245000"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "POURCENTAGE_HONORAIRE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "4.08"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "MONTANT_HONO_ACQ",
+									"elements": [
+										{
+											"type": "text",
+											"text": "10000.0000"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CHARGE_HONORAIRES",
+									"elements": [
+										{
+											"type": "text",
+											"text": "Acquéreur"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "GARANTIE_REVENTE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "Non"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "APPARTEMENT",
+							"elements": [
+								{
+									"type": "element",
+									"name": "SS_TYPE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CATEGORIE_MERE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "28"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CPVILLE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " 92250 LA GARENNE COLOMBES "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NBRE_PIECES",
+									"elements": [
+										{
+											"type": "text",
+											"text": "2"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NBRE_CHAMBRES",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "SURFACE_HABITABLE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "41.3"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "SURFACE_SEJOUR",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "SURFACE_TERRAIN",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "SHON",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "FACADE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "PROFONDEUR",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NBRE_NIVEAUX",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "ANNEE_CONSTRUCTION",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CATEGORIE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NBRE_SALLE_BAIN",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NBRE_WC",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NBRE_CAVES",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "MEUBLE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CHAUFFAGE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " Collectif "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NUM_ETAGE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "4"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NUM_DERNIER_ETAGE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "4"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "ASCENSEUR",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "INTERPHONE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DIGICODE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CONSOMMATIONENERGETIQUE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "NI"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "GAZEFFETDESERRE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "Vierge"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NBRE_ETAGE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "4"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CHEMINEE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "Oui"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CALME",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CLAIR",
+									"elements": [
+										{
+											"type": "text",
+											"text": "1"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "VENDU",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "SELECTION_PAGE_ACCUEIL",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "REGIME_FISCAL",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "TYPE_RESIDENCE",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "OBSERVATIONS",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "POINTS_POSITIFS",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DIAG_COMMENTAIRES",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "PRESTATIONS_COMMENTAIRES",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "EXPOSITION_SEJOUR",
+									"elements": [
+										{
+											"type": "text",
+											"text": "Sud"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DATE_ECHEANCE_MANDAT",
+									"elements": [
+										{
+											"type": "text",
+											"text": "15/04/2020"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "COUP_COEUR",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "TITRE_VITRINE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "TEXTE_VITRINE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "LOCALISATION",
+							"elements": [
+								{
+									"type": "element",
+									"name": "VISIBLE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "true"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "CODE_POSTAL",
+									"elements": [
+										{
+											"type": "text",
+											"text": "92250"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "VILLE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " LA GARENNE COLOMBES "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "PAYS",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " France "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "INSEE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "92035"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "SECTEUR",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "SITUATION",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NOM_RESIDENCE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " "
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "ACCES",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "PROXIMITE",
+									"elements": []
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "DEFISCALISATION",
+							"elements": [
+								{
+									"type": "element",
+									"name": "GIRARDIN",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "BORLOO",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "DEROBIEN",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "SCELLIER",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "ZRR",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "LMNP_LMP",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "LMNP_BOUVARD",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "MALRAUX",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "MONUMENT_HISTORIQUE",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "NUE_PROPRIETE",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "MICROFONCIER",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "SCELLIER_OUTRE_MER",
+									"elements": []
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "INTITULE",
+							"elements": [
+								{
+									"type": "element",
+									"name": "FR",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nA vendre 2 pieces Dernier Etage Gare des vallées 92250\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "US",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nA vendre 2 pieces Dernier Etage Gare des vallées 92250\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nA vendre 2 pieces Dernier Etage Gare des vallées 92250\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "ES",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nA vendre 2 pieces Dernier Etage Gare des vallées 92250\r\n"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "COMMENTAIRES",
+							"elements": [
+								{
+									"type": "element",
+									"name": "FR",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nImmoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "US",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nImmoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "DE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nImmoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "ES",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": "\r\nImmoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.\r\n"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "ALUR",
+							"elements": [
+								{
+									"type": "element",
+									"name": "COPROPRIETE",
+									"elements": [
+										{
+											"type": "text",
+											"text": "Oui"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NB_LOTS",
+									"elements": [
+										{
+											"type": "text",
+											"text": "20"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NB_LOTS_HAB",
+									"elements": []
+								},
+								{
+									"type": "element",
+									"name": "CHARGES_ANNUELLES",
+									"elements": [
+										{
+											"type": "text",
+											"text": "2250"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "PROCEDURES",
+									"elements": [
+										{
+											"type": "text",
+											"text": "0"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "NOM_PROCEDURE",
+									"elements": [
+										{
+											"type": "cdata",
+											"cdata": " Pas de procédure en cours "
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "VIAGER",
+							"elements": [
+								{
+									"type": "element",
+									"name": "EN_VIAGER",
+									"elements": [
+										{
+											"type": "text",
+											"text": "Non"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "IMAGES",
+							"elements": [
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820a.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820b.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820c.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820d.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820e.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820f.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820g.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820h.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820i.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820j.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								},
+								{
+									"type": "element",
+									"name": "IMG",
+									"elements": [
+										{
+											"type": "text",
+											"text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820k.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "element",
+							"name": "PIECES",
+							"elements": []
+						}
+					]
+				}
+			]
+		}
+	]
+}
