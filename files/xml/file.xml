@@ -1,0 +1,240 @@
+<LISTEPA>
+    <BIEN>
+        <INFO_GENERALES>
+            <AFF_ID>31233820</AFF_ID>
+            <AFF_NUM>6059</AFF_NUM>
+            <DATE_CREATION>2019-04-15 16:21:06</DATE_CREATION>
+            <DATE_MAJ>24/04/2019</DATE_MAJ>
+            <LIBRELE></LIBRELE>
+            <NEGO>491110</NEGO>
+            <AFF_URL>
+                <![CDATA[
+http://v2.immo-facile.com/catalog/admin-v2/product_info.php?action=popup_agence&products_autorised=true&mmanufacturers_id=70751&msites_id=4211&site=4211&msites_code=immoconseils&madmin_id=491110&cle=b328bb51abb82ad38d981e2fc14b23cd&products_id=31233820&show_price=1
+]]>
+            </AFF_URL>
+            <VISITE_VIRTUELLE>
+                <![CDATA[ ]]>
+            </VISITE_VIRTUELLE>
+            <STATUT>
+                <![CDATA[ En cours ]]>
+            </STATUT>
+        </INFO_GENERALES>
+        <AGENCE>
+            <AGENCE_ID>70751</AGENCE_ID>
+            <AGENCE_NOM>
+                <![CDATA[ IMMO CONSEILS - IMMOCONSEIL ]]>
+            </AGENCE_NOM>
+            <AGENCE_ADRESSE>
+                <![CDATA[ 15 Rue de Chante Coq ]]>
+            </AGENCE_ADRESSE>
+            <AGENCE_CP>92800</AGENCE_CP>
+            <AGENCE_VILLE>
+                <![CDATA[ PUTEAUX ]]>
+            </AGENCE_VILLE>
+            <AGENCE_TELEPHONE>+33 1 47 74 92 50</AGENCE_TELEPHONE>
+            <AGENCE_PORTABLE></AGENCE_PORTABLE>
+            <AGENCE_FAX>+33 1 47 78 83 97</AGENCE_FAX>
+            <AGENCE_MAIL>contact@immoconseil92.fr</AGENCE_MAIL>
+            <AGENCE_SITE>http://www.immoconseil92.fr</AGENCE_SITE>
+            <AGENCE_LOGO>
+http://admin.immo-facile.com/../segments/immo/catalog/images/manufacturers_logo/70751.jpg
+            </AGENCE_LOGO>
+            <AGENCE_PHOTO>http://admin.immo-facile.com/</AGENCE_PHOTO>
+            <AGENCE_RESEAU>
+                <![CDATA[ Agences Réunies De Paris ]]>
+            </AGENCE_RESEAU>
+            <AGENCE_SIRET>44983066000022</AGENCE_SIRET>
+            <AGENCE_BAREME></AGENCE_BAREME>
+        </AGENCE>
+        <VENTE>
+            <TYPE_MANDAT>S</TYPE_MANDAT>
+            <DATE_MANDAT>15/04/2019</DATE_MANDAT>
+            <PRIX>255000.00</PRIX>
+            <PRIX_NET>245000</PRIX_NET>
+            <PRIX_HORS_HONO_ACQ>245000</PRIX_HORS_HONO_ACQ>
+            <POURCENTAGE_HONORAIRE>4.08</POURCENTAGE_HONORAIRE>
+            <MONTANT_HONO_ACQ>10000.0000</MONTANT_HONO_ACQ>
+            <CHARGE_HONORAIRES>Acquéreur</CHARGE_HONORAIRES>
+            <GARANTIE_REVENTE>Non</GARANTIE_REVENTE>
+        </VENTE>
+        <APPARTEMENT>
+            <SS_TYPE>1</SS_TYPE>
+            <CATEGORIE_MERE>28</CATEGORIE_MERE>
+            <CPVILLE>
+                <![CDATA[ 92250 LA GARENNE COLOMBES ]]>
+            </CPVILLE>
+            <NBRE_PIECES>2</NBRE_PIECES>
+            <NBRE_CHAMBRES>1</NBRE_CHAMBRES>
+            <SURFACE_HABITABLE>41.3</SURFACE_HABITABLE>
+            <SURFACE_SEJOUR>0</SURFACE_SEJOUR>
+            <SURFACE_TERRAIN>0</SURFACE_TERRAIN>
+            <SHON>0</SHON>
+            <FACADE>0</FACADE>
+            <PROFONDEUR>0</PROFONDEUR>
+            <NBRE_NIVEAUX>1</NBRE_NIVEAUX>
+            <ANNEE_CONSTRUCTION>0</ANNEE_CONSTRUCTION>
+            <CATEGORIE>1</CATEGORIE>
+            <NBRE_SALLE_BAIN>0</NBRE_SALLE_BAIN>
+            <NBRE_WC>0</NBRE_WC>
+            <NBRE_CAVES>1</NBRE_CAVES>
+            <MEUBLE>0</MEUBLE>
+            <CHAUFFAGE>
+                <![CDATA[ Collectif ]]>
+            </CHAUFFAGE>
+            <NUM_ETAGE>4</NUM_ETAGE>
+            <NUM_DERNIER_ETAGE>4</NUM_DERNIER_ETAGE>
+            <ASCENSEUR>0</ASCENSEUR>
+            <INTERPHONE>1</INTERPHONE>
+            <DIGICODE>1</DIGICODE>
+            <CONSOMMATIONENERGETIQUE>NI</CONSOMMATIONENERGETIQUE>
+            <GAZEFFETDESERRE>Vierge</GAZEFFETDESERRE>
+            <NBRE_ETAGE>4</NBRE_ETAGE>
+            <CHEMINEE>Oui</CHEMINEE>
+            <CALME>1</CALME>
+            <CLAIR>1</CLAIR>
+            <VENDU>0</VENDU>
+            <SELECTION_PAGE_ACCUEIL>0</SELECTION_PAGE_ACCUEIL>
+            <REGIME_FISCAL></REGIME_FISCAL>
+            <TYPE_RESIDENCE></TYPE_RESIDENCE>
+            <OBSERVATIONS>
+                <![CDATA[ ]]>
+            </OBSERVATIONS>
+            <POINTS_POSITIFS>
+                <![CDATA[ ]]>
+            </POINTS_POSITIFS>
+            <DIAG_COMMENTAIRES>
+                <![CDATA[ ]]>
+            </DIAG_COMMENTAIRES>
+            <PRESTATIONS_COMMENTAIRES>
+                <![CDATA[ ]]>
+            </PRESTATIONS_COMMENTAIRES>
+            <EXPOSITION_SEJOUR>Sud</EXPOSITION_SEJOUR>
+            <DATE_ECHEANCE_MANDAT>15/04/2020</DATE_ECHEANCE_MANDAT>
+            <COUP_COEUR>0</COUP_COEUR>
+            <TITRE_VITRINE>
+                <![CDATA[ ]]>
+            </TITRE_VITRINE>
+            <TEXTE_VITRINE>
+                <![CDATA[ ]]>
+            </TEXTE_VITRINE>
+        </APPARTEMENT>
+        <LOCALISATION>
+            <VISIBLE>true</VISIBLE>
+            <CODE_POSTAL>92250</CODE_POSTAL>
+            <VILLE>
+                <![CDATA[ LA GARENNE COLOMBES ]]>
+            </VILLE>
+            <PAYS>
+                <![CDATA[ France ]]>
+            </PAYS>
+            <INSEE>92035</INSEE>
+            <SECTEUR>
+                <![CDATA[ ]]>
+            </SECTEUR>
+            <SITUATION>
+                <![CDATA[ ]]>
+            </SITUATION>
+            <NOM_RESIDENCE>
+                <![CDATA[ ]]>
+            </NOM_RESIDENCE>
+            <ACCES></ACCES>
+            <PROXIMITE></PROXIMITE>
+        </LOCALISATION>
+        <DEFISCALISATION>
+            <GIRARDIN></GIRARDIN>
+            <BORLOO></BORLOO>
+            <DEROBIEN></DEROBIEN>
+            <SCELLIER></SCELLIER>
+            <ZRR></ZRR>
+            <LMNP_LMP></LMNP_LMP>
+            <LMNP_BOUVARD></LMNP_BOUVARD>
+            <MALRAUX></MALRAUX>
+            <MONUMENT_HISTORIQUE></MONUMENT_HISTORIQUE>
+            <NUE_PROPRIETE></NUE_PROPRIETE>
+            <MICROFONCIER></MICROFONCIER>
+            <SCELLIER_OUTRE_MER></SCELLIER_OUTRE_MER>
+        </DEFISCALISATION>
+        <INTITULE>
+            <FR>
+                <![CDATA[
+A vendre 2 pieces Dernier Etage Gare des vallées 92250
+]]>
+            </FR>
+            <US>
+                <![CDATA[
+A vendre 2 pieces Dernier Etage Gare des vallées 92250
+]]>
+            </US>
+            <DE>
+                <![CDATA[
+A vendre 2 pieces Dernier Etage Gare des vallées 92250
+]]>
+            </DE>
+            <ES>
+                <![CDATA[
+A vendre 2 pieces Dernier Etage Gare des vallées 92250
+]]>
+            </ES>
+        </INTITULE>
+        <COMMENTAIRES>
+            <FR>
+                <![CDATA[
+Immoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.
+]]>
+            </FR>
+            <US>
+                <![CDATA[
+Immoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.
+]]>
+            </US>
+            <DE>
+                <![CDATA[
+Immoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.
+]]>
+            </DE>
+            <ES>
+                <![CDATA[
+Immoconseil vous propose à la vente ce charmant deux pièces idéalement situé 4ème et dernier étage d'un bel immeuble ancien à quelques mètres de la gare des Vallées et du marché couvert. Actuellement loué jusque mai 2021 pour un loyer mensuel de 540euros hors charges, il se compose d'une entrée avec rangement, d'un salon exposé plein Sud, d'une chambre, d'une salle de bain, d'une cuisine séparée, d'un WC séparés et d'une cave. Cet appartement lumineux a conservé tout le charme de l'ancien, parquet, cheminée et belle hauteur sous plafond. Prix net vendeur 245.000euros, honoraires 4.08% charge acquéreur soit 10.000euros Prix FAI 255.000euros. Informations et rdv Julien Desnoyers 06.31.15.10.55 dont 4.08 % honoraires TTC à la charge de l'acquéreur. Copropriété de 20 lots (Pas de procédure en cours). Charges annuelles : 2250 euros.
+]]>
+            </ES>
+        </COMMENTAIRES>
+        <ALUR>
+            <COPROPRIETE>Oui</COPROPRIETE>
+            <NB_LOTS>20</NB_LOTS>
+            <NB_LOTS_HAB></NB_LOTS_HAB>
+            <CHARGES_ANNUELLES>2250</CHARGES_ANNUELLES>
+            <PROCEDURES>0</PROCEDURES>
+            <NOM_PROCEDURE>
+                <![CDATA[ Pas de procédure en cours ]]>
+            </NOM_PROCEDURE>
+        </ALUR>
+        <VIAGER>
+            <EN_VIAGER>Non</EN_VIAGER>
+        </VIAGER>
+        <IMAGES>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820a.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820b.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820c.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820d.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820e.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820f.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820g.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820h.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820i.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820j.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+            <IMG> https://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820k.jpg?DATEMAJ=24/04/2019-14:54:30
+            </IMG>
+        </IMAGES>
+        <PIECES></PIECES>
+    </BIEN>
+</LISTEPA>

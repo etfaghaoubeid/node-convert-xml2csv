@@ -1,0 +1,302 @@
+{
+	"BIEN": {
+		"INFO_GENERALES": {
+			"AFF_ID": {
+				"_text": "31233820"
+			},
+			"AFF_NUM": {
+				"_text": "6059"
+			},
+			"DATE_CREATION": {
+				"_text": "2019-04-15 16:21:06"
+			},
+			"DATE_MAJ": {
+				"_text": "24/04/2019"
+			},
+			"LIBRELE": {},
+			"NEGO": {
+				"_text": "491110"
+			},
+			"AFF_URL": {},
+			"VISITE_VIRTUELLE": {},
+			"STATUT": {}
+		},
+		"AGENCE": {
+			"AGENCE_ID": {
+				"_text": "70751"
+			},
+			"AGENCE_NOM": {},
+			"AGENCE_ADRESSE": {},
+			"AGENCE_CP": {
+				"_text": "92800"
+			},
+			"AGENCE_VILLE": {},
+			"AGENCE_TELEPHONE": {
+				"_text": "+33 1 47 74 92 50"
+			},
+			"AGENCE_PORTABLE": {},
+			"AGENCE_FAX": {
+				"_text": "+33 1 47 78 83 97"
+			},
+			"AGENCE_MAIL": {
+				"_text": "contact@immoconseil92.fr"
+			},
+			"AGENCE_SITE": {
+				"_text": "http://www.immoconseil92.fr"
+			},
+			"AGENCE_LOGO": {
+				"_text": "\r\nhttp://admin.immo-facile.com/../segments/immo/catalog/images/manufacturers_logo/70751.jpg\r\n"
+			},
+			"AGENCE_PHOTO": {
+				"_text": "http://admin.immo-facile.com/"
+			},
+			"AGENCE_RESEAU": {},
+			"AGENCE_SIRET": {
+				"_text": "44983066000022"
+			},
+			"AGENCE_BAREME": {}
+		},
+		"VENTE": {
+			"TYPE_MANDAT": {
+				"_text": "S"
+			},
+			"DATE_MANDAT": {
+				"_text": "15/04/2019"
+			},
+			"PRIX": {
+				"_text": "255000.00"
+			},
+			"PRIX_NET": {
+				"_text": "245000"
+			},
+			"PRIX_HORS_HONO_ACQ": {
+				"_text": "245000"
+			},
+			"POURCENTAGE_HONORAIRE": {
+				"_text": "4.08"
+			},
+			"MONTANT_HONO_ACQ": {
+				"_text": "10000.0000"
+			},
+			"CHARGE_HONORAIRES": {
+				"_text": "Acquéreur"
+			},
+			"GARANTIE_REVENTE": {
+				"_text": "Non"
+			}
+		},
+		"APPARTEMENT": {
+			"SS_TYPE": {
+				"_text": "1"
+			},
+			"CATEGORIE_MERE": {
+				"_text": "28"
+			},
+			"CPVILLE": {},
+			"NBRE_PIECES": {
+				"_text": "2"
+			},
+			"NBRE_CHAMBRES": {
+				"_text": "1"
+			},
+			"SURFACE_HABITABLE": {
+				"_text": "41.3"
+			},
+			"SURFACE_SEJOUR": {
+				"_text": "0"
+			},
+			"SURFACE_TERRAIN": {
+				"_text": "0"
+			},
+			"SHON": {
+				"_text": "0"
+			},
+			"FACADE": {
+				"_text": "0"
+			},
+			"PROFONDEUR": {
+				"_text": "0"
+			},
+			"NBRE_NIVEAUX": {
+				"_text": "1"
+			},
+			"ANNEE_CONSTRUCTION": {
+				"_text": "0"
+			},
+			"CATEGORIE": {
+				"_text": "1"
+			},
+			"NBRE_SALLE_BAIN": {
+				"_text": "0"
+			},
+			"NBRE_WC": {
+				"_text": "0"
+			},
+			"NBRE_CAVES": {
+				"_text": "1"
+			},
+			"MEUBLE": {
+				"_text": "0"
+			},
+			"CHAUFFAGE": {},
+			"NUM_ETAGE": {
+				"_text": "4"
+			},
+			"NUM_DERNIER_ETAGE": {
+				"_text": "4"
+			},
+			"ASCENSEUR": {
+				"_text": "0"
+			},
+			"INTERPHONE": {
+				"_text": "1"
+			},
+			"DIGICODE": {
+				"_text": "1"
+			},
+			"CONSOMMATIONENERGETIQUE": {
+				"_text": "NI"
+			},
+			"GAZEFFETDESERRE": {
+				"_text": "Vierge"
+			},
+			"NBRE_ETAGE": {
+				"_text": "4"
+			},
+			"CHEMINEE": {
+				"_text": "Oui"
+			},
+			"CALME": {
+				"_text": "1"
+			},
+			"CLAIR": {
+				"_text": "1"
+			},
+			"VENDU": {
+				"_text": "0"
+			},
+			"SELECTION_PAGE_ACCUEIL": {
+				"_text": "0"
+			},
+			"REGIME_FISCAL": {},
+			"TYPE_RESIDENCE": {},
+			"OBSERVATIONS": {},
+			"POINTS_POSITIFS": {},
+			"DIAG_COMMENTAIRES": {},
+			"PRESTATIONS_COMMENTAIRES": {},
+			"EXPOSITION_SEJOUR": {
+				"_text": "Sud"
+			},
+			"DATE_ECHEANCE_MANDAT": {
+				"_text": "15/04/2020"
+			},
+			"COUP_COEUR": {
+				"_text": "0"
+			},
+			"TITRE_VITRINE": {},
+			"TEXTE_VITRINE": {}
+		},
+		"LOCALISATION": {
+			"VISIBLE": {
+				"_text": "true"
+			},
+			"CODE_POSTAL": {
+				"_text": "92250"
+			},
+			"VILLE": {},
+			"PAYS": {},
+			"INSEE": {
+				"_text": "92035"
+			},
+			"SECTEUR": {},
+			"SITUATION": {},
+			"NOM_RESIDENCE": {},
+			"ACCES": {},
+			"PROXIMITE": {}
+		},
+		"DEFISCALISATION": {
+			"GIRARDIN": {},
+			"BORLOO": {},
+			"DEROBIEN": {},
+			"SCELLIER": {},
+			"ZRR": {},
+			"LMNP_LMP": {},
+			"LMNP_BOUVARD": {},
+			"MALRAUX": {},
+			"MONUMENT_HISTORIQUE": {},
+			"NUE_PROPRIETE": {},
+			"MICROFONCIER": {},
+			"SCELLIER_OUTRE_MER": {}
+		},
+		"INTITULE": {
+			"FR": {},
+			"US": {},
+			"DE": {},
+			"ES": {}
+		},
+		"COMMENTAIRES": {
+			"FR": {},
+			"US": {},
+			"DE": {},
+			"ES": {}
+		},
+		"ALUR": {
+			"COPROPRIETE": {
+				"_text": "Oui"
+			},
+			"NB_LOTS": {
+				"_text": "20"
+			},
+			"NB_LOTS_HAB": {},
+			"CHARGES_ANNUELLES": {
+				"_text": "2250"
+			},
+			"PROCEDURES": {
+				"_text": "0"
+			},
+			"NOM_PROCEDURE": {}
+		},
+		"VIAGER": {
+			"EN_VIAGER": {
+				"_text": "Non"
+			}
+		},
+		"IMAGES": {
+			"IMG": [{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820a.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820b.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820c.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820d.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820e.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820f.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820g.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820h.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820i.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820j.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				},
+				{
+					"_text": "\r\nhttps://media.immo-facile.com/office4/immoconseils/catalog/images/pr_p/3/1/2/3/3/8/2/0/31233820k.jpg?DATEMAJ=24/04/2019-14:54:30\r\n"
+				}
+			]
+		},
+		"PIECES": {}
+	}
+}
