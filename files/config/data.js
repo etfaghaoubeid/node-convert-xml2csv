@@ -1,9 +1,11 @@
 const {LISTEPA} = require('../../app')
+const fs = require('fs')
 let myData = []  
 
   for(let i =0 ;i<LISTEPA.BIEN.length;i++){
-    console.log(LISTEPA.BIEN[i].APPARTEMENT)
-
+   console.log( typeof LISTEPA.BIEN[i].VENTE)
+  
+    
     
     myData.push(
   
@@ -12,14 +14,14 @@ let myData = []
   'AFF_ID':`${LISTEPA.BIEN[i].INFO_GENERALES.AFF_ID._text}`, 
   'AFF_NUM':`${LISTEPA.BIEN[i].INFO_GENERALES.AFF_NUM._text}`, 
    'ACHAT':"",
-    'LOCATION':`${LISTEPA.BIEN[i].LOCATION}`,
-     'CATEGORIE_MERE' :`${LISTEPA.BIEN[i].APPARTEMENT}`, 
-     'CATEGORIE':`${LISTEPA.BIEN[i].APPARTEMENT?LISTEPA.BIEN[i].APPARTEMENT.CATEGORIE._text:''}`,
+    'LOCATION':`${LISTEPA.BIEN[i].LOCATION=='undefined'?'':''}`,
+     'CATEGORIE_MERE' :`${LISTEPA.BIEN[i].APPARTEMENT=='undefined'|| LISTEPA.BIEN[i].APPARTEMENT==null?"": LISTEPA.BIEN[i].APPARTEMENT.CATEGORIE_MERE._text }`, 
+     'CATEGORIE':`${LISTEPA.BIEN[i].APPARTEMENT=='undefined'|| LISTEPA.BIEN[i].APPARTEMENT==null?"": LISTEPA.BIEN[i].APPARTEMENT.CATEGORIE_MERE._text }`,
      'CODE_POSTAL':`${LISTEPA.BIEN[i].LOCALISATION.CODE_POSTAL._text}`, 
      'VILLE':`${LISTEPA.BIEN[i].LOCALISATION?LISTEPA.BIEN[i].LOCALISATION.VILLE._cdata:''}`,
-     'PAYS':`${LISTEPA.BIEN[i].LOCALISATION.PAYS._text}`,
+     'PAYS':`${LISTEPA.BIEN[i].LOCALISATION.PAYS == 'undefined'|| LISTEPA.BIEN[i].LOCALISATION.PAYS==null?"": LISTEPA.BIEN[i].LOCALISATION.PAYS._cdata}`,
      'PRIX':`${LISTEPA.BIEN[i].VENTE.PRIX._text}`,
-     'LOYER':`${LISTEPA.BIEN[i].LOCATION}`,
+     'LOYER':`${LISTEPA.BIEN[i].VENTE}`,
      'CHARGES':`{${LISTEPA.BIEN[i].ALUR.CHARGES_ANNUELLES._text}}`,
      'MONTANT_HONO_ACQ':`${LISTEPA.BIEN[i].VENTE.MONTANT_HONO_ACQ}`,
      'FRAIS_AGENCE':`${LISTEPA.BIEN[i].LOCATION}`, // not exist 
