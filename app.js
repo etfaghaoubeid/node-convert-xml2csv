@@ -3,7 +3,7 @@ var fs = require('fs');
 const { Parser } = require('json2csv');
 const util = require('util')
 var xml = fs.readFileSync('./files/xml/file.xml', 'utf8');
-var options = {ignoreComment: true, alwaysChildren: false,spaces:'\t',compact:true,ignoreAttributes:true,};
+var options = {ignoreComment: true, alwaysChildren: false,spaces:'\t',compact:true,ignoreAttributes:true};
 var result = convert.xml2json (xml, options);  
 
 // write into json File
@@ -41,7 +41,7 @@ const {fields} = require('./files/config/fields')
 const {myData} = require('./files/config/data')
 
   
-const json2csvParser = new Parser({ fields, unwind: ['AFF_ID._txt', 'items.items'] });
+const json2csvParser = new Parser({ fields, eol:'\r\n'});
 const csv = json2csvParser.parse(myData);
 
 fs.writeFile('./files/fillle.csv',csv,err=>console.log(err))
