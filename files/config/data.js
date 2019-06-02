@@ -1,9 +1,19 @@
 const {LISTEPA} = require('../../app')
+// vente , info_general , agence , commentaire 
+function getType(params){
+  
+
+}
 const fs = require('fs')
 let myData = []  
 
   for(let i =0 ;i<LISTEPA.BIEN.length;i++){
-   console.log( typeof LISTEPA.BIEN[i].COMMENTAIRES.FR._cdata)//,LISTEPA.BIEN[i].APPARTEMENT.SURFACE_HABITABLE)
+
+    let t
+   console.log( typeof LISTEPA.BIEN[i].COMMENTAIRES )
+   //console.log( typeof LISTEPA.BIEN[i].APPARTEMENT, )
+
+   //,LISTEPA.BIEN[i].APPARTEMENT.SURFACE_HABITABLE)
    //console.log(LISTEPA.BIEN[i].APPARTEMENT)//,LISTEPA.BIEN[i].APPARTEMENT.SURFACE_HABITABLE)
 
   
