@@ -1,5 +1,5 @@
 const {LISTEPA} = require('../../app')
-// vente , info_general , agence , commentaire 
+// vente , info_general , agence , commentaire   
 function getType(params){
   
 
